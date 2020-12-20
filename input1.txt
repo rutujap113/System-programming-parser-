@@ -1,0 +1,6 @@
+CREATE TABLE dept
+(
+deptno NUMBER(2),
+dname VARCHAR(14),
+loc VARCHR(13)
+);
